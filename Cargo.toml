@@ -1,0 +1,10 @@
+[package]
+name = "rust_console_emulator"
+version = "0.1.0"
+authors = ["Keith Simmons <keith@the-simmons.net>"]
+
+[dependencies]
+libc = "0.2.28"
+named_pipe = "0.2.4"
+widestring = "0.2.2"
+winapi = "0.2.8"
